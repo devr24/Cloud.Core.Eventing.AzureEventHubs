@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Cloud.Core.Eventing.AzureEventHubs.Tests": {
+      "commandName": "Project"
+    }
+  }
+}
